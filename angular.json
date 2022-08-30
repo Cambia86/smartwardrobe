@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "smartwardrobe"
+  "defaultProject": "smartwardrobe",
+  "cli": {
+    "analytics": false
+  }
 }
